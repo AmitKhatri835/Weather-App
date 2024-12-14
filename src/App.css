@@ -1,0 +1,11 @@
+body{
+  background-color: #2a8ec0;
+}
+
+form input{
+  width: 250px;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  margin: 0px 10px;
+}
